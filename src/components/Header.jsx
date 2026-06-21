@@ -8,11 +8,6 @@ const Header = () => {
         </span>
       </div>
 
-      <div className="header-badge">
-        <span className="header-badge-dot" aria-hidden="true" />
-        Live Calculator
-      </div>
-
       <a
         href="https://digitalheroesco.com"
         target="_blank"
